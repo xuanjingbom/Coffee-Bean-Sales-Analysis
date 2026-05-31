@@ -16,7 +16,7 @@ The objective is to generate meaningful insights from sales data through data cl
 
 ## Files
 
-* Final Report.pdf
+* Group_2[1].docx (Final Report)
 * Data Science assignment PPT.pdf
 
 ## Key Skills Demonstrated
